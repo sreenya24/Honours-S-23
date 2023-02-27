@@ -9,3 +9,6 @@ Here, I tried using RANSAC to join the contours and draw lines. This worked some
 
 ## 3. Time Analysis
 This contains the analysis on time for stages 1 and 2 and the corresponding code for it. 
+
+## 4. PAGE
+Using the PhyCV library, this code looks at direction dependent gradient algorithms. 
