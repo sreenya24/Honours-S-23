@@ -12,3 +12,6 @@ This contains the analysis on time for stages 1 and 2 and the corresponding code
 
 ## 4. PAGE
 Using the PhyCV library, this code looks at direction dependent gradient algorithms. 
+
+## 5. SpeedUp S2
+Speeding up the seam generation part, that is the stage 2 of the whole project.
